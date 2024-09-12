@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello, I'm Ami! 👋
 
 <!--
 **iyonagamy/iyonagamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## Skills
+
+- **Languages**: JavaScript, TypeScript, Python, HTML/CSS
+- **Frameworks & Libraries**: React, Next.js, Node.js, Express, Django, Flask, Prisma
+- **Databases & Tools**: PostgreSQL, mySQL, AWS, GCP, GitHub, Docker, VS Code
+
+## Projects
+
+### [介護施設向け情報共有アプリ：Care Bridge](https://github.com/ms-engineer-bc24-06/CareBridge)
