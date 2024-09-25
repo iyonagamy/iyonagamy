@@ -1,6 +1,6 @@
 ## Hello, I'm iyochica! 👋
 
-### ✔Skills
+### ✅ Skills
 #### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
@@ -32,8 +32,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
 </p>
 
-### ✔Data
+### ✅ Data
 <p align="left"> 
-<!--   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyonagamy&layout=compact&show_icons=true&theme=cobalt" /> -->
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyonagamy&layout=compact&show_icons=true&theme=cobalt" />
   <img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iyonagamy&theme=cobalt&show_icons=true" />
 </p>
