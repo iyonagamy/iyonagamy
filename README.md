@@ -38,9 +38,11 @@
 </p>
 
 ## Data
-# iyonagamy's GitHub Profile
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyonagamy&layout=compact&theme=cobalt)
-![iyonagamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyonagamy&show_icons=true&theme=cobalt)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyonagamy&layout=compact&show_icons=true&theme=cobalt" />
+  <img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iyonagamy&theme=cobalt&show_icons=true" />
+</p>
+
 
 ## Projects
 
