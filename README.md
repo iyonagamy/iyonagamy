@@ -1,9 +1,5 @@
 ## Hello, I'm iyochica! 👋
 
-<!--
-**iyonagamy/iyonagamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ### ✔Skills
 #### Languages
 <p>
@@ -13,6 +9,7 @@
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
 </p>
+
 #### Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
@@ -23,6 +20,7 @@
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40"/>
 </p>
+
 #### Databases & DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40"/>
