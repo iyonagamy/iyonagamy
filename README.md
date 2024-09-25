@@ -4,9 +4,9 @@
 **iyonagamy/iyonagamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Skills
+### Skills
 
-### Languages
+#### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/>
@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
 </p>
 
-### Frameworks & Libraries
+#### Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40"/>
 </p>
 
-### Databases & DevOps & Tools
+#### Databases & DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
@@ -37,13 +37,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
 </p>
 
-## Data
+### Data
 <p align="left"> 
 <!--   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyonagamy&layout=compact&show_icons=true&theme=cobalt" /> -->
   <img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iyonagamy&theme=cobalt&show_icons=true" />
 </p>
-
-
-## Projects
-
-### [介護施設向け情報共有アプリ：Care Bridge](https://github.com/ms-engineer-bc24-06/CareBridge)
