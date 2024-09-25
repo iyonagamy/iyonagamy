@@ -37,6 +37,12 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
 </p>
 
+## Data
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username={iyonagamy}&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username={iyonagamy}&theme=onedark&show_icons=ture" />
+</p>
+
 ## Projects
 
 ### [介護施設向け情報共有アプリ：Care Bridge](https://github.com/ms-engineer-bc24-06/CareBridge)
