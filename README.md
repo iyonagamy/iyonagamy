@@ -28,8 +28,8 @@
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
 </p>
 
 ### ✔ Data
