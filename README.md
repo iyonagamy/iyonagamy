@@ -6,10 +6,10 @@
 
 <!-- Qiita Profile Link -->
 <p align="left">
-  <a href="https://qiita.com/YOUR_QIITA_USERNAME" target="_blank">
+  <a href="https://qiita.com/iyochica" target="_blank">
     <img src="https://qiita-badge.apiapi.app/s/iyochica/posts.svg" alt="Qiita posts" />
   </a>
-  <a href="https://qiita.com/YOUR_QIITA_USERNAME" target="_blank">
+  <a href="https://qiita.com/iyochica" target="_blank">
     <img src="https://qiita-badge.apiapi.app/s/iyochica/contributions.svg" alt="Qiita contributions" />
   </a>
 </p>
