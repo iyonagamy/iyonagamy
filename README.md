@@ -1,5 +1,18 @@
 ## Hello, I'm iyochica! 👋
+<!-- GitHub Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=iyonagamy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
+<!-- Qiita Profile Link -->
+<p align="left">
+  <a href="https://qiita.com/YOUR_QIITA_USERNAME" target="_blank">
+    <img src="https://qiita-badge.apiapi.app/s/iyochica/posts.svg" alt="Qiita posts" />
+  </a>
+  <a href="https://qiita.com/YOUR_QIITA_USERNAME" target="_blank">
+    <img src="https://qiita-badge.apiapi.app/s/iyochica/contributions.svg" alt="Qiita contributions" />
+  </a>
+</p>
 ### ✔ Skills
 #### Languages
 <p>
@@ -34,6 +47,6 @@
 
 ### ✔ Data
 <p align="left"> 
-<!--   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyonagamy&layout=compact&show_icons=true&theme=cobalt" /> -->
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyonagamy&layout=compact&show_icons=true&theme=cobalt" />
   <img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iyonagamy&theme=cobalt&show_icons=true" />
 </p>
